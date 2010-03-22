@@ -1,4 +1,4 @@
-var tests = exports = {};
+var tests = exports;
 var assert = require("assert");
 var Caffeine = require("caffeine");
 
@@ -52,7 +52,5 @@ tests['test that objects know if they have a function'] = function () {
   assert.ok(!testObj.respondTo("baz"));
 }
 
-
-
 if (require.main == module.id)
-    require('test/runner').run(exports);
+    require('test/runner').run(tests);
