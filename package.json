@@ -2,5 +2,6 @@
     "version": "0.1.0",
     "name": "caffeine",
     "author": "Clinton R. Nixon",
-    "url": "http://github.com/crnixon/narwhal-caffeine"
+    "url": "http://github.com/crnixon/narwhal-caffeine",
+    "description": "Adds helpful methods to manipulate and introspect on strings, objects, and functions."
 }
