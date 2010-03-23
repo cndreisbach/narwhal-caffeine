@@ -1,7 +1,6 @@
 {
+    "version": "0.1.0",
     "name": "caffeine",
     "author": "Clinton R. Nixon",
-    "url": "http://github.com/crnixon/narwhal-caffeine",
-    "dependencies": [],
-    "contributors": []
+    "url": "http://github.com/crnixon/narwhal-caffeine"
 }
